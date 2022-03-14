@@ -36,7 +36,7 @@
 
 <br><br>
 <a href="https://github.com/AnujCMD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujCMD&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnujCMD&layout=compact">
 </a>
 <a href="https://github.com/AnujCMD">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnujCMD&show_icons=true&theme=dark&line_height=30" alt="Anuj's github stats"/>
