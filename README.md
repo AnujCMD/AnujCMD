@@ -24,10 +24,9 @@
 
 
 
-- :telescope: I'm currently a Undergrad Student 💻;
-- :hourglass_flowing_sand: Learning ML and Data Analytics;
+- :telescope: Enthusiat for Data Driven / Low Latency Systems 💻;
+- :hourglass_flowing_sand: Extrapolating ML/AI model checkpoints for D2D application;
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
-- :man_technologist: B.Tech(Computer Science and Engineering), LPU; 
 - :dart: Life Hack: "You are an excellent developer";
 - 📫 How to reach me: anujjoshi32@gmail.com;
 
